@@ -1,6 +1,9 @@
+# ********************************************
+
 # Cuaderno de Google COLLAB
 https://colab.research.google.com/drive/1eLOZDh8CePK4xsUk2iD1BOZd0qi8SJEb?usp=sharing
 
+# ********************************************
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
